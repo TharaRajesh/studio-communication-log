@@ -1,7 +1,7 @@
 body {
     color: white;
     background-color: black;
-    font-family: 'Sacramento', cursive;
+    font-family: 'Sacramento', cursive,'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 32px;
     margin-top: 5%;
     margin-left: 20%;
